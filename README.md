@@ -1,5 +1,5 @@
 # Data Driven Meeting List  
-![Data Driven Meeting List](Data-Driven-Meeting-List/MeetingListImg.PNG)
+![Data Driven Meeting List](MeetingListImg.PNG)
 
 ##Purpose:
 This Meeting List Project takes the meeting list from a large group from a html page and moves the data into a database.
